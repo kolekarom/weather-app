@@ -8,7 +8,7 @@ A simple web application that fetches and displays real-time weather data using 
 ✅ Responsive design for mobile and desktop
 
 🚀 Live Demo
-Live Demo Link (if deployed)
+Live Demo Link (https://weatherforcasting-tawny.vercel.app/)
 
 🛠️ Tech Stack
 HTML, CSS, JavaScript
@@ -35,7 +35,6 @@ js
 Copy
 Edit
 const apiKey = "YOUR_API_KEY";
-📸 Screenshots
 
 
 🛠️ Future Improvements
