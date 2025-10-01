@@ -38,7 +38,7 @@ const apiKey = "YOUR_API_KEY";
 
 
 🛠️ Future Improvements
-🌍 Add geolocation-based weather detection
+🌍 Added geolocation-based weather detection
 🎨 Improve UI with animations
 📊 Show weekly weather forecasts
 🤝 Contributing
